@@ -56,11 +56,11 @@ public class pitagoras
         Console.WriteLine("El perimetro del cuadrado es: " + periCuadrado);
         Console.WriteLine("El arear del cuadrado es: " + areaCuadrado);
         Console.WriteLine("El perimetro del rectangulo es: " + periRec);
-        Console.WriteLine("El area del rectangulo es: " + periRec);
-        Console.WriteLine("");
-        Console.WriteLine("");
-        Console.WriteLine("");
-        Console.WriteLine("");
+        Console.WriteLine("El area del rectangulo es: " + areaRec);
+        Console.WriteLine("El perimetro del triangulo es: " + periTriangulo);
+        Console.WriteLine("El area del triangulo es: " + areaTriangulo);
+        Console.WriteLine("El perimetro del circulo es: " + periCir);
+        Console.WriteLine("El area del circulo es: " + areaCir);
 
     }
 
