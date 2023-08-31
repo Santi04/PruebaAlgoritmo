@@ -13,9 +13,10 @@
                 try
                 {
 
-                    Console.WriteLine("1. Opción 1");
-                    Console.WriteLine("2. Opción 2");
-                    Console.WriteLine("3. Opción 3");
+                    Console.WriteLine("1. Ingrese 1 para suma");
+                    Console.WriteLine("2. Ingrese 2 para resta");
+                    Console.WriteLine("3. Ingrese 3 para multiplicación");
+                    Console.WriteLine("3. Ingrese 4 para división");
                     Console.WriteLine("4. Salir");
                     Console.WriteLine("Elige una de las opciones");
                     int opcion = Convert.ToInt32(Console.ReadLine());
